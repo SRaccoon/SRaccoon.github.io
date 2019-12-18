@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c493bd8d-7843-4b88-81f7-9194634f2037" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-12-18-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-18-test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +19,13 @@
   <component name="ProjectId" id="1V8Jn0hsbcMP7SFfWOfQt4XMoZS" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_site/assets/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SimJeongHyeon\git\SRaccoon.github.io\_site\assets\img" />
       <recent name="C:\Users\SimJeongHyeon\git\SRaccoon.github.io\_posts" />
     </key>
   </component>
@@ -49,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576628951907</updated>
       <workItem from="1576628953085" duration="10613000" />
-      <workItem from="1576646339559" duration="69000" />
+      <workItem from="1576646339559" duration="4249000" />
     </task>
     <task id="LOCAL-00001" summary="site url changed">
       <created>1576635550903</created>
@@ -65,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576646358349</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edit post">
+      <created>1576646418364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576646418364</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="site url changed" />
     <MESSAGE value="add post" />
-    <option name="LAST_COMMIT_MESSAGE" value="add post" />
+    <MESSAGE value="edit post" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit post" />
   </component>
 </project>
