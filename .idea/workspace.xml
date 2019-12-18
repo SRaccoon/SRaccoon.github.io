@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c493bd8d-7843-4b88-81f7-9194634f2037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-06-12-Startup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-06-18-volunteer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-06-18-Embedded.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-06-20-Micro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-18-AMPM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-01-Report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-06-Startup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-18-Tetris.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-01-Jacob.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/ARM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Embedded3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/NoPain1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/NoPain2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Report1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Report2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Schedular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Schedular2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Tetris1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Tetris2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Tetris3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Tetris4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/vol.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-02-hanium.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-02-hanium.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-24-TT.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-24-TT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-12-Embedded.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-06-12-Embedded.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +58,7 @@
       <updated>1576628951907</updated>
       <workItem from="1576628953085" duration="10613000" />
       <workItem from="1576646339559" duration="4249000" />
-      <workItem from="1576675477396" duration="9897000" />
+      <workItem from="1576675477396" duration="10129000" />
     </task>
     <task id="LOCAL-00001" summary="site url changed">
       <created>1576635550903</created>
@@ -112,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576679348909</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add porfolio">
+      <created>1576685908186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576685908186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
