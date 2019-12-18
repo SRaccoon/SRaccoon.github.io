@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c493bd8d-7843-4b88-81f7-9194634f2037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-10-mathjax-example.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-18-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-18-test.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +25,7 @@
   <component name="ProjectId" id="1V8Jn0hsbcMP7SFfWOfQt4XMoZS" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -52,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576628951907</updated>
-      <workItem from="1576628953085" duration="4187000" />
+      <workItem from="1576628953085" duration="10613000" />
     </task>
+    <task id="LOCAL-00001" summary="site url changed">
+      <created>1576635550903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576635550903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="site url changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="site url changed" />
   </component>
 </project>
