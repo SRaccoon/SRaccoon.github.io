@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c493bd8d-7843-4b88-81f7-9194634f2037" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-08-10-mathjax-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-12-18-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-18-test.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,6 +39,7 @@
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\SimJeongHyeon\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576628951907</updated>
       <workItem from="1576628953085" duration="10613000" />
+      <workItem from="1576646339559" duration="69000" />
     </task>
     <task id="LOCAL-00001" summary="site url changed">
       <created>1576635550903</created>
@@ -65,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576635550903</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add post">
+      <created>1576646358349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576646358349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +76,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -84,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="site url changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="site url changed" />
+    <MESSAGE value="add post" />
+    <option name="LAST_COMMIT_MESSAGE" value="add post" />
   </component>
 </project>
