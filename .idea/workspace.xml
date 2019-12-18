@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c493bd8d-7843-4b88-81f7-9194634f2037" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2016-12-02-hanium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2016-12-24-TT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-06-12-Embedded.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Embedded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/Embedded2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/TT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Portfolio/TT2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-12-18-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-18-test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,12 +26,18 @@
   <component name="ProjectId" id="1V8Jn0hsbcMP7SFfWOfQt4XMoZS" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_site/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/Portfolio" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/Portfolio" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/Portfolio" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_posts/img" />
       <recent name="C:\Users\SimJeongHyeon\git\SRaccoon.github.io\_site\assets\img" />
       <recent name="C:\Users\SimJeongHyeon\git\SRaccoon.github.io\_posts" />
     </key>
@@ -54,6 +67,7 @@
       <updated>1576628951907</updated>
       <workItem from="1576628953085" duration="10613000" />
       <workItem from="1576646339559" duration="4249000" />
+      <workItem from="1576675477396" duration="3739000" />
     </task>
     <task id="LOCAL-00001" summary="site url changed">
       <created>1576635550903</created>
