@@ -29,3 +29,4 @@ comments: false
 
 <br />
 
+##학력
