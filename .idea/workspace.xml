@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c493bd8d-7843-4b88-81f7-9194634f2037" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-18-Embedded.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-18-Embedded.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-18-Tetris.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-18-Tetris.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-01-Jacob.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-01-Jacob.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +19,14 @@
   <component name="ProjectId" id="1V8Jn0hsbcMP7SFfWOfQt4XMoZS" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/Portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/Portfolio" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/Portfolio" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/_posts/img" />
       <recent name="C:\Users\SimJeongHyeon\git\SRaccoon.github.io\_site\assets\img" />
+      <recent name="C:\Users\SimJeongHyeon\git\SRaccoon.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,8 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1576628951907</updated>
       <workItem from="1576628953085" duration="10613000" />
-      <workItem from="1576646339559" duration="4249000" />
-      <workItem from="1576675477396" duration="10736000" />
+      <workItem from="1576646339559" duration="5114000" />
+      <workItem from="1576714079931" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="site url changed">
       <created>1576635550903</created>
@@ -83,28 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576646418364</updated>
     </task>
-    <task id="LOCAL-00004" summary="add porfolio">
-      <created>1576679348909</created>
+    <task id="LOCAL-00004" summary="edit post">
+      <created>1576654518019</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1576679348909</updated>
+      <updated>1576654518019</updated>
     </task>
-    <task id="LOCAL-00005" summary="add porfolio">
-      <created>1576685908186</created>
+    <task id="LOCAL-00005" summary="edit post">
+      <created>1576654605621</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1576685908186</updated>
+      <updated>1576654605621</updated>
     </task>
-    <task id="LOCAL-00006" summary="add porfolio">
-      <created>1576686120389</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1576686120389</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +114,6 @@
     <MESSAGE value="site url changed" />
     <MESSAGE value="add post" />
     <MESSAGE value="edit post" />
-    <MESSAGE value="add porfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="add porfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit post" />
   </component>
 </project>
